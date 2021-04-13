@@ -1,7 +1,10 @@
 # Dark Vimwiki HTML Template
 
-This is a fork of ... The only differences being some color choices more
+This is a fork of [Dark-Vimwiki-Template](https://github.com/rahul13ramesh/Dark-Vimwiki-Template) The only differences being some color choices more
 to my liking.
+
+--------------
+
 This a dark themed template for [Vimwiki](https://github.com/vimwiki/vimwiki). Vimwiki is a plugin for Vim useful for markdown style note making.
 
 VIMRC Config :
