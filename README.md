@@ -1,7 +1,7 @@
 # Dark Vimwiki HTML Template
 
 This is a fork of [Dark-Vimwiki-Template](https://github.com/rahul13ramesh/Dark-Vimwiki-Template) The only differences being some color choices more
-to my liking. Fixing tables is still in the works
+to my liking. Fixing tables is still in the works.
 
 --------------
 
